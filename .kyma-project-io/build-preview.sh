@@ -42,8 +42,7 @@ copy-website-repo() {
 }
 
 build-preview() {
-  export APP_COMMUNITY_SOURCE_DIR="${KYMA_PROJECT_IO_DIR}/../docs"
-  echo ${APP_COMMUNITY_SOURCE_DIR}
+  export APP_COMMUNITY_SOURCE_DIR="${KYMA_PROJECT_IO_DIR}"/../docs
   export APP_PREVIEW_SOURCE_DIR="${BUILD_DIR}/content/community"
   make -C "${BUILD_DIR}" netlify-community-preview
 }
@@ -69,7 +68,7 @@ main() {
   echo "/ /community/" > "${BUILD_DIR}"/public/_redirects
   step "Added"
 
-  tree ${BUILD_DIR}/content/community
+  tree "${BUILD_DIR}"/content/community
   ls -l "${KYMA_PROJECT_IO_DIR}/.."
 }
 main
