@@ -33,6 +33,12 @@ step() {
   echo -e "\\n${YELLOW}${message}${NC}"
 }
 
+
+merge() {
+  git checkout -b pull-request
+  git checkout main
+  git merge pull-request
+}
 remove-cached-content() {
   ( rm -rf "${BUILD_DIR}" ) || true
 }
@@ -51,6 +57,10 @@ main() {
   step "Remove website cached content"
   remove-cached-content
   pass "Removed"
+
+  step "Merge with main branch"
+  merge()
+  step "Merge done"
 
   step "Copying kyma/website repo"
   copy-website-repo
