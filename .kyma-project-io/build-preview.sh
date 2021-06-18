@@ -59,7 +59,7 @@ main() {
   pass "Removed"
 
   step "Merge with main branch"
-  merge()
+  merge
   step "Merge done"
 
   step "Copying kyma/website repo"
