@@ -48,14 +48,14 @@ Feel invited to join the public [Core SIG meetings](https://kyma-community.slack
 
 You can also find these guidelines and templates in the `community` repository:
 
-- [Naming](./docs/guidelines/technical-guidelines/01-naming.md) conventions
-- Document [templates](./docs/guidelines/templates)
-- Overview of the [content strategy](./docs/guidelines/content-guidelines/01-content-strategy.md) and [content guidelines](./guidelines/content-guidelines)
-- [Release process](./docs/guidelines/releases-guidelines) details
-- [Decisions](./collaboration/sig-core/decisions) made by Kyma team members and the Core SIG.
-- [Coding standards](./docs/guidelines/technical-guidelines)
+- [Naming](./docs/03-guidelines/technical/01-naming.md) conventions
+- Document [templates](./docs/03-guidelines/templates)
+- Overview of the [content strategy](./docs/03-guidelines/content-guidelines/01-content-strategy.md) and [content guidelines](./guidelines/content-guidelines)
+- [Release process](./docs/03-guidelines/releases-guidelines) details
+- [Decisions](./docs/04-collaboration/02-sig-core.md) made by Kyma team members and the Core SIG.
+- [Coding standards](./docs/03-guidelines/technical)
 
-There are also [repository guidelines](./docs/guidelines/repository-guidelines) for the Kyma team members. The guidelines contain a folder, file, and document structure required for a [skeleton Kyma repository](./guidelines/repository-guidelines/repository-template).
+There are also [repository guidelines](./docs/03-guidelines/repository) for the Kyma team members. The guidelines contain a folder, file, and document structure required for a [skeleton Kyma repository](./guidelines/repository-guidelines/repository-template).
 
 ## Security
 

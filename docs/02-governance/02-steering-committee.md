@@ -10,7 +10,7 @@ The purpose of the Kyma Steering Committee is to:
 
 ## The size of the committee
 
-To make sure the committee can always make a majority decision, we have three members. The ultimate goal is to have five members (at least two [individual](/contributing/#contributing-rules-contributing-rules-agreements-and-licenses) ones) and never four.
+To make sure the committee can always make a majority decision, we have three members. The ultimate goal is to have five members (at least two [individual](../01-contributing/02-contributing.md#agreements-and-licenses) ones) and never four.
 
 ## Decision-making
 
