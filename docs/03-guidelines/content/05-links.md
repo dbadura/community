@@ -59,7 +59,7 @@ If the `{type}` doesn't exist, the pattern has the form of `/{type-of-topic}/{id
 
 ## Links in documentation toggles
 
-To link to a document in a documentation toggle, the toggle must start with the `<div tabs name="{toggle-name}">` tag and end with the `</div>` tag, where **name** is a distinctive ID used for linking. For more information, read a separate [document on toggles](#toggle-toggle).
+To link to a document in a documentation toggle, the toggle must start with the `<div tabs name="{toggle-name}">` tag and end with the `</div>` tag, where **name** is a distinctive ID used for linking. For more information, read a separate [document on toggles](./03-documentation-toggle.md).
 
 If you want to link to a document in a documentation toggle, create a reference using `/{type-of-topic}/{id}#{type}-{title}-{header}` pattern as described in the previous sections, and add `--{toggle-name}--{tab-name}--{header}`, where:
 

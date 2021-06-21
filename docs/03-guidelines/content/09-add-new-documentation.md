@@ -92,7 +92,7 @@ Follow these steps:
   </details>
 </div>
 
-> **NOTE:** Before merging your PR, you can check if the topic you added is rendered properly on the website thanks to [`docs-preview`](#documentation-preview-documentation-preview) built on every PR.
+> **NOTE:** Before merging your PR, you can check if the topic you added is rendered properly on the website thanks to [`docs-preview`](./10-docs-preview.md) built on every PR.
 
 ## Add a single OpenAPI specification
 
@@ -187,7 +187,7 @@ To add a new specification, follow these steps:
   </details>
 </div>
 
-> **NOTE:** Before merging your PR, you can check if the specification you added is rendered properly on the website thanks to [`docs-preview`](#documentation-preview-documentation-preview) built on every PR.
+> **NOTE:** Before merging your PR, you can check if the specification you added is rendered properly on the website thanks to [`docs-preview`](./10-docs-preview.md) built on every PR.
 
 ## Add a new repository documentation
 

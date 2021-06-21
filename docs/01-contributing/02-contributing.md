@@ -56,7 +56,7 @@ To contribute code or content to a given Kyma repository, follow these steps:
 
 1. Make sure that the change is valid and approved. If you are an external contributor, **open a GitHub issue** before you make a contribution.
 2. Fork the Kyma repository that you want to contribute to.
-3. Clone it locally, add a remote upstream repository for the original repository, and set up the `main` branch to track the remote `main` branch from the upstream repository. See the [**Git Workflow**](#git-wokflow-git-wokflow) document to learn how to configure your fork.
+3. Clone it locally, add a remote upstream repository for the original repository, and set up the `main` branch to track the remote `main` branch from the upstream repository. See the [**Git Workflow**](./03-git-workflow.md) document to learn how to configure your fork.
 4. Create a new branch out of the local `main` branch of the forked repository.
 5. Commit and push changes to your new branch. Create a clear and descriptive commit message in which you specify what you have changed. See the [**Git workflow**](#git-wokflow-git-wokflow) document for commit message guidelines.
 6. Create a PR from your branch on the forked repository to the `main` branch of the original, upstream repository. Fill in the PR template according to instructions.
@@ -92,7 +92,7 @@ Every maintainer reviews each contribution according to the rules listed in this
 
 Although it is the responsibility of the owner of the PR to ensure that the maintainers review and approve the PR, maintainers need to coordinate the overall number of unreviewed and unapproved PRs in their queue, and, if required, take appropriate measures to handle them effectively.
 
-To learn more about maintainers' responsibilities and rules for appointing new maintainers, and removing the existing ones, refer to the [**Kyma working model**](/governance/#kyma-working-model-kyma-working-model) document.
+To learn more about maintainers' responsibilities and rules for appointing new maintainers, and removing the existing ones, refer to the [**Kyma working model**](../02-governance/01-governance.md) document.
 
 ## Maintainers
 

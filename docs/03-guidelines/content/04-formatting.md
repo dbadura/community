@@ -2,7 +2,7 @@
 title: Formatting
 ---
 
-These are the guidelines for formatting text and using specific elements such as lists, tables, headings, and links. For guidelines regarding the creation of diagrams, see [this document](#diagrams-diagrams).
+These are the guidelines for formatting text and using specific elements such as lists, tables, headings, and links. For guidelines regarding the creation of diagrams, see [this document](./02-diagrams.md).
 
 ## Code formatting
 

@@ -63,7 +63,7 @@ To standardize the Special Interest Group and Working Group efforts, create maxi
 ## General guidelines
 
 All Kyma SIG and WG members agree to these rules:
-* Follow the official project guidelines defined in the [**Contributing rules**](/contributing/#contributing-rules-contributing-rules).
+* Follow the official project guidelines defined in the [**Contributing rules**](../01-contributing/02-contributing.md#contribution-rules).
 * Meet regularly in the agreed frequency, for at least 30 minutes.
 * Keep up-to-date meeting notes in a given SIG's folder.
 * Maintain related repositories and ensure smooth processing of pull requests.
@@ -89,7 +89,7 @@ When a SIG or WG has completed its goals or there is an explicit request to conc
 * Create an issue and accompanying pull request (PR) to close a SIG or WG and add the **decision** label to them.
 * Close the remaining open issues of the group or reassign them accordingly, with appropriate comment.
 * [Delete the group label](https://help.github.com/en/articles/deleting-a-label) used on the issues or PRs.
-* Remove the group from the [list of SIGs](#list-of-sigs) or [list of WGs](#list-of-wgs) in this `README.md` file.
+* Remove the group from the [list of SIGs and WGs](#open-sigs-and-wgs) in this document.
 * Move the group folder (together with all subfolders and files) to the [archive](https://github.com/kyma-project/community/tree/main/collaboration/archive) folder.
 * Add a `CLOSURE.md` file to the archived group folder. Write it in the form of a blog post that informs about the group's outcomes, achievements, challenges, and lessons learned. Remember to provide links to the relevant material. The PR undergoes a standard review by group members, the Kyma Steering Committee, and is subsequently closed.
 * Publish the content of the `CLOSURE.md` in the form of a blog post on the Kyma website or link to it.
