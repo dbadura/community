@@ -22,13 +22,13 @@ The cross-project activities can require the creation of a new WG to address the
 
 The Kyma project is open-source and is available on [GitHub](https://github.com/kyma-project). Although external contributions to the Kyma open-source project are welcome through the public GitHub project, the Kyma teams within the organization largely drive the Kyma development.
 
-To ensure the continuous growth and the "scale-as-you-go-and-need" approach when extending the community, the current structure and governance bodies of Kyma SIGs and WGs are very simple. However, the structure of the community can change depending on the community needs. The [Kyma Steering Committee](/governance/#kyma-steering-committee-kyma-steering-committee) supports the governance of Kyma and the single Core SIG represents it publicly. The aim of the Core SIG is to facilitate the collaboration with external contributors.
+To ensure the continuous growth and the "scale-as-you-go-and-need" approach when extending the community, the current structure and governance bodies of Kyma SIGs and WGs are very simple. However, the structure of the community can change depending on the community needs. The [Kyma Steering Committee](../02-governance/02-steering-committee.md) supports the governance of Kyma and the single Core SIG represents it publicly. The aim of the Core SIG is to facilitate the collaboration with external contributors.
 
 ## Open SIGs and WGs
 
 The list of public SIGs in Kyma includes:
 
-* [Core SIG](#core-special-interest-group-core-special-interest-group)
+* [Core SIG](./02-sig-core.md)
 
 ## Closed SIGs and WGs
 
