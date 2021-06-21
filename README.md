@@ -4,7 +4,7 @@
 
 Welcome to the Kyma community. Here you can find information on how to join the community, get involved, and improve Kyma code and documentation.
 
-Before you proceed, review the [Code of Conduct](./docs/contributing/01-code-of-conduct.md) and contact us on [Slack](http://slack.kyma-project.io/) for any questions or concerns.
+Before you proceed, review the [Code of Conduct](./docs/01-contributing/01-code-of-conduct.md) and contact us on [Slack](http://slack.kyma-project.io/) for any questions or concerns.
 
 Go directly to the section that you are most interested in:
 - [Kyma Community](#kyma-community)
@@ -50,7 +50,7 @@ You can also find these guidelines and templates in the `community` repository:
 
 - [Naming](./docs/03-guidelines/technical/01-naming.md) conventions
 - Document [templates](./docs/03-guidelines/templates)
-- Overview of the [content strategy](./docs/03-guidelines/content-guidelines/01-content-strategy.md) and [content guidelines](./guidelines/content-guidelines)
+- Overview of the [content strategy](./docs/03-guidelines/content/01-content-strategy.md) and [content guidelines](./guidelines/content-guidelines)
 - [Release process](./docs/03-guidelines/releases) details
 - [Decisions](./docs/04-collaboration/02-sig-core.md) made by Kyma team members and the Core SIG.
 - [Coding standards](./docs/03-guidelines/technical)
