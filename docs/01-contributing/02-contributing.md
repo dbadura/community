@@ -58,7 +58,7 @@ To contribute code or content to a given Kyma repository, follow these steps:
 2. Fork the Kyma repository that you want to contribute to.
 3. Clone it locally, add a remote upstream repository for the original repository, and set up the `main` branch to track the remote `main` branch from the upstream repository. See the [**Git Workflow**](./03-git-workflow.md) document to learn how to configure your fork.
 4. Create a new branch out of the local `main` branch of the forked repository.
-5. Commit and push changes to your new branch. Create a clear and descriptive commit message in which you specify what you have changed. See the [**Git workflow**](#git-wokflow-git-wokflow) document for commit message guidelines.
+5. Commit and push changes to your new branch. Create a clear and descriptive commit message in which you specify what you have changed. See the [**Git workflow**](./03-git-workflow.md) document for commit message guidelines.
 6. Create a PR from your branch on the forked repository to the `main` branch of the original, upstream repository. Fill in the PR template according to instructions.
 7. Read and accept the Contributor Licence Agreement (CLA).
 8. If there are merge conflicts on your PR, squash your commits and rebase the `main` branch.

@@ -25,7 +25,7 @@ The table below includes placeholders used throughout this document. When execut
 
 ## Preparation
 
-> **NOTE:** This section applies only to new major and minor versions. If you release a patch, skip the preparation and go to the [**Steps**](#kyma-release-process-kyma-release-process-steps) section.
+> **NOTE:** This section applies only to new major and minor versions. If you release a patch, skip the preparation and go to the [**Steps**](#steps) section.
 
 ### kyma-project/kyma
 

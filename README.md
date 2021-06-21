@@ -31,9 +31,9 @@ We are an open-source community and the number of contributors is growing. Meet 
 
 ### Process
 
-Before you start to contribute, review the [contribution rules](./docs/contributing/02-contributing.md). To understand better the way the Kyma community works, read about the [working model](./governance/01-governance.md) and learn about the [Special Interest Groups and Working Groups](./collaboration/01-sig-and-wg.md) in Kyma.
+Before you start to contribute, review the [contribution rules](./docs/01-contributing/02-contributing.md). To understand better the way the Kyma community works, read about the [working model](./governance/01-governance.md) and learn about the [Special Interest Groups and Working Groups](./docs/04-collaboration/01-sig-and-wg.md) in Kyma.
 
-All contributors follow the recommended [Git workflow](./docs/contributing/03-git-workflow.md) that relies on forks, branches, rebasing, and squashing. Review it to ensure that you contribute high-quality code and content to the project.
+All contributors follow the recommended [Git workflow](./docs/01-contributing/03-git-workflow.md) that relies on forks, branches, rebasing, and squashing. Review it to ensure that you contribute high-quality code and content to the project.
 
 ### Issues
 
@@ -51,7 +51,7 @@ You can also find these guidelines and templates in the `community` repository:
 - [Naming](./docs/03-guidelines/technical/01-naming.md) conventions
 - Document [templates](./docs/03-guidelines/templates)
 - Overview of the [content strategy](./docs/03-guidelines/content-guidelines/01-content-strategy.md) and [content guidelines](./guidelines/content-guidelines)
-- [Release process](./docs/03-guidelines/releases-guidelines) details
+- [Release process](./docs/03-guidelines/releases) details
 - [Decisions](./docs/04-collaboration/02-sig-core.md) made by Kyma team members and the Core SIG.
 - [Coding standards](./docs/03-guidelines/technical)
 
