@@ -12,7 +12,7 @@ files:
   - path: "./community/docs/03-guidelines/content/02-diagrams.md"
     config:
       internal-links-to-ignore: [ "./assets/create-bucket.svg" ]
-  - path: "/community/docs/03-guidelines/content/07-screenshots.md"
+  - path: "./community/docs/03-guidelines/content/07-screenshots.md"
     config:
       internal-links-to-ignore: [ "./assets/create-bucket.svg" ]
   - path: "./community/docs/03-guidelines/content/05-links.md"
