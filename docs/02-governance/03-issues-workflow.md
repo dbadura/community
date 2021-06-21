@@ -33,8 +33,8 @@ Here are the custom labels introduced by the Kyma team. The labels colors are pr
 * `area/quality` (#3CB913) indicates that an issue is related to a quality topic.
 * `area/performance` (#3CB913) indicates that an issue is related to a performance topic.
 * `security/{SEVERITY}` (#2D51F9) indicates a security issue based on its [CVSSv3](https://www.first.org/cvss/calculator/3.0) severity, either `low`, `medium`, `high`, or `critical`.
-* `sig/{SIG_NAME}` (#E99694) indicates which [Special interest group (SIG)](/collaboration/#overview-overview) identified the issue and is responsible for further follow-up on the issue.
-* `wg/{WG_NAME}` (#E99694) indicates which [Working group (WG)](/collaboration/#overview-overview) identified the issue and is responsible for further follow-up on the issue.
+* `sig/{SIG_NAME}` (#E99694) indicates which [Special interest group (SIG)](../04-collaboration/README.md) identified the issue and is responsible for further follow-up on the issue.
+* `wg/{WG_NAME}` (#E99694) indicates which [Working group (WG)](../04-collaboration/README.md) identified the issue and is responsible for further follow-up on the issue.
 
 ## Issues triage
 
@@ -48,7 +48,7 @@ There are eight different stages of the triage:
 |--------- |----------|---------|
 | Validity | Assess the validity of the issue (whether it is taken for the further triage and proper classification). | invalid, duplicate, wontfix, question |
 | Kind | Differentiate whether the related issue is a new feature or a bug. | enhancement, bug, test-failing |
-| Decision | Check if the issue is related to a [decision](#kyma-working-model-kyma-working-model-decision-making). | decision |
+| Decision | Check if the issue is related to a [decision](./01-governance.md#decision-making). | decision |
 | Help | Identify issues that do not have high priority and can be taken by the community. | help wanted, good first issue|
 | Security | Specify the [CVSSv3](https://www.first.org/cvss/calculator/3.0) severity with the support of the security team. | security/{SEVERITY} |
 | SIG/WG | Clarify which SIG or WG is involved in this issue and is responsible for the further follow-up on the issue. | sig/{SIG_NAME}, wg/{WG_NAME}|

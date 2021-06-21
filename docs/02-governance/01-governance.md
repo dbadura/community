@@ -24,7 +24,7 @@ Every code owner is expected to:
 
 * Contribute high-quality code and content
 * Communicate and collaborate with other code owners to improve the ownership process
-* Perform a thorough review of incoming PRs and make sure he/she follows the [contributing rules](CONTRIBUTING.md)
+* Perform a thorough review of incoming PRs and make sure he/she follows the [contributing rules](https://github.com/kyma-project/community/blob/main/CONTRIBUTING.md)
 * Approve only those PRs in which the contributor made the requested improvements
 * Check if the related CI tests have completed successfully before approving the PR
 * Make sure that the PR approval flow runs smoothly
@@ -32,7 +32,7 @@ Every code owner is expected to:
 * Perform maintenance tasks for his/her projects
 * As an assignee, treat issues assigned to a current release with priority
 * Monitor [Slack](http://slack.kyma-project.io)
-* Triage GitHub issues and perform pull request reviews for other maintainers and the community. Follow the [labels workflow](/governance/#issues-workflow-issues-workflow) document
+* Triage GitHub issues and perform pull request reviews for other maintainers and the community. Follow the [labels workflow](./03-issues-workflow.md) document
 * In general, continue to be willing to spend at least 50% of his/her time working on Kyma (~2.5 business days per week).
 
 ### Process for becoming a maintainer (aka codeowner)
@@ -75,11 +75,11 @@ called in to decide an issue. If the maintainers themselves cannot decide an iss
 be resolved by voting. The voting process is a simple majority in which each maintainer
 receives one vote.
 
-For complex cases when there is a situation that we need a decision that affects more than just one group of maintainers, the [Decision Making](/governance/#kyma-working-model-kyma-working-model-decision-making) process applies.
+For complex cases when there is a situation that we need a decision that affects more than just one group of maintainers, the [Decision Making](#decision-making) process applies.
 
 ## Decision-making
 
-In general, the Special Interest Groups (SIGs) and Working Groups (WGs) make decisions that affect the project, including its structure, functionalities, components, or work of the project teams. However, the organizational decisions and those that relate to the product strategy are made by the [Kyma Steering Committee](/governance/#kyma-steering-committee-kyma-steering-committee).
+In general, the Special Interest Groups (SIGs) and Working Groups (WGs) make decisions that affect the project, including its structure, functionalities, components, or work of the project teams. However, the organizational decisions and those that relate to the product strategy are made by the [Kyma Steering Committee](./02-steering-committee.md).
 
 SIGs and WGs follow the **lazy consensus** approach to decision-making which assumes that:
 
@@ -99,7 +99,7 @@ The SIG/WG decison-making process is as follows:
 
 [Create an issue](https://github.com/kyma-project/community/issues/new/choose) and choose the **Decision record** template. Provide the information as requested in the template and set the issue label to `decision`. The issue can contain all necessary information, reference a document, or an open pull request with a more detailed proposal. Additionally, set the corresponding WG or SIG label such as `sig/core`.
 
-> **NOTE:** In some cases, the `decision` label is set for an existing issue during the [triage](#issues-workflow-issues-workflow-issues-triage), which indicates the need for a decision. In this case, use the [**Decision record** template](https://github.com/kyma-project/community/blob/main/.github/ISSUE_TEMPLATE/decision-record.md) and copy it to the issue description accordingly.
+> **NOTE:** In some cases, the `decision` label is set for an existing issue during the [triage](./03-issues-workflow.md), which indicates the need for a decision. In this case, use the [**Decision record** template](https://github.com/kyma-project/community/blob/main/.github/ISSUE_TEMPLATE/decision-record.md) and copy it to the issue description accordingly.
 
 ### Reach a consensus
 
@@ -127,7 +127,7 @@ Once you reach the consensus:
 
 ### Lack of consensus
 
-Engage the [Core SIG leaders](/collaboration/#core-special-interest-group-core-special-interest-group-leaders) if there are still unresolved objections by the decision due date. They will work with the [Kyma Steering Committee](/governance/#kyma-steering-committee-kyma-steering-committee) if necessary to reach the final decision as soon as possible and close the issue.
+Engage the [Core SIG leaders](../04-collaboration/02-sig-core.md#leaders) if there are still unresolved objections by the decision due date. They will work with the [Kyma Steering Committee](./02-steering-committee.md) if necessary to reach the final decision as soon as possible and close the issue.
 
 ### Revisit a decision
 

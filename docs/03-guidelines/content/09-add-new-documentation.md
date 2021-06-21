@@ -195,7 +195,7 @@ Follow these steps if you want the documentation from a repository under the [`k
 
 > **NOTE:** Documents should follow the [content strategy](https://kyma-project.io/community/guidelines/content/#content-strategy-content-strategy-documentation-types), have proper types, metadata, and numbering. See the [Kyma docs](https://github.com/kyma-project/kyma/tree/main/docs/kyma) for reference.  
 
-1. Create  the `.kyma-project-io` folder in the given repository and add appropriate [documentation topics](#add-new-documentation-to-the-website-add-new-documentation-to-the-website-add-a-new-documentation-topic) to this folder.
+1. Create  the `.kyma-project-io` folder in the given repository and add appropriate [documentation topics](./09-add-new-documentation.md#add-a-new-documentation-topic) to this folder.
 
 2. Add the new entry in the **docs** field in [`config.json`](https://github.com/kyma-project/website/blob/main/config.json):
 
