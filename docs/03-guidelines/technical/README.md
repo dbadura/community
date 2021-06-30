@@ -6,10 +6,10 @@ These guidelines provide rules and tips to all who contribute code to the Kyma r
 
 Read about:
 
-- Rules for [naming](#naming-naming) objects in Kyma
-- Different [component types](#kyma-components-kyma-components) in Kyma
-- Guidelines for writing [Custom Resource Definitions](#custom-resource-definition-custom-resource-definition) files
-- Tips and hints for providing [Docker images](#docker-images-docker-images) in Kyma
-- Best practices for creating [Helm charts](#helm-helm)
-- Guidelines for [defining APIs](#http-api-design-http-api-design) in Kyma
-- Kyma [test strategy](#test-strategy-test-strategy)
+- Rules for [naming](./01-naming.md) objects in Kyma
+- Different [component types](./02-kyma-components.md) in Kyma
+- Guidelines for writing [Custom Resource Definitions](./03-custom-resource-definitions.md) files
+- Tips and hints for providing [Docker images](04-docker-images.md) in Kyma
+- Best practices for creating [Helm charts](05-helm.md)
+- Guidelines for [defining APIs](06-http-api-design.md) in Kyma
+- Kyma [test strategy](07-test-strategy.md)

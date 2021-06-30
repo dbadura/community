@@ -19,7 +19,7 @@ The purpose of this group is to:
 * [{day name} at {hour}:{minutes} {time zone}]({Put a link to your calendar meeting ICS file. Attach it to the Slack channel and pin it to the channel.})
 * [Slack](https://kyma-community.slack.com/messages/{slack-channel-name})
 * Frequency: {daily | weekly | bi-weekly | monthly}
-* [Meeting notes and agenda](meeting-notes.md)
+* [Meeting notes and agenda](sig-wg-meeting-notes-template.md)
 * [Meeting recordings](https://www.youtube.com/{channel-address})
 
 ## Leaders
@@ -38,4 +38,4 @@ The purpose of this group is to:
 
 ## Reference
 
-Read the main [`README.md`](../README.md) document to learn about the structure of Kyma SIGs and WGs.
+Read the main [`README.md`](../../docs/04-collaboration/README.md) document to learn about the structure of Kyma SIGs and WGs.
