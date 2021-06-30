@@ -10,7 +10,7 @@ If you are looking for information on how to join us, you are in the right place
 
 ## Contribution rules
 
-Before you start contributing, read our [Code of Conduct](./01-contributing/01-code-of-conduct.md) and learn about our [working model](./governance/#dasdsadasda-working-model-kyma-working-model) to understand the way Kyma community works. Get familiar with the [contributing rules](/contributing/#contributing-rules-contributing-rules), recommended [Git workflow](/contributing/#git-wokflow-git-wokflow), and [issues workflow](/governance/#issues-workflow-issues-workflow) we use in Kyma so you can apply them later in practice as an active contributor.
+Before you start contributing, read our [Code of Conduct](./01-contributing/01-code-of-conduct.md) and learn about our [working model](./02-governance/01-governance.md) to understand the way Kyma community works. Get familiar with the [contributing rules](/contributing/#contributing-rules-contributing-rules), recommended [Git workflow](/contributing/#git-wokflow-git-wokflow), and [issues workflow](/governance/#issues-workflow-issues-workflow) we use in Kyma so you can apply them later in practice as an active contributor.
 
 ## Guidelines
 

@@ -36,7 +36,7 @@ To see the list of closed SIGs and WGs, check the [`archive`](https://github.com
 
 ## Organize new SIGs and WGs
 
-To propose a new SIG or WG, go to the [issue tracker](https://github.com/kyma-project/community/issues) in the `community` repository and create a new issue from the **SIG or WG proposal** template. The template contains general information explaining the purpose, the goals of the group, and the criteria for the group assessment and evaluation. Provide the required details and submit the issue. If necessary, contact [Kyma Steering Committee leaders](/governance/#kyma-steering-committee-kyma-steering-committee-members) to verify it.
+To propose a new SIG or WG, go to the [issue tracker](https://github.com/kyma-project/community/issues) in the `community` repository and create a new issue from the **SIG or WG proposal** template. The template contains general information explaining the purpose, the goals of the group, and the criteria for the group assessment and evaluation. Provide the required details and submit the issue. If necessary, contact [Kyma Steering Committee leaders](../02-governance/02-steering-committee.md#members) to verify it.
 
 >**NOTE:** You must have at least five candidates for the new SIG or WG to submit the proposal.
 

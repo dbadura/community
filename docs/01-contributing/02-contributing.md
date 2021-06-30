@@ -6,7 +6,7 @@ As a Kyma contributor, you must follow certain guidelines and rules.
 
 ## Guidelines
 
-Go to the **Guidelines** section to read about rules and tips for providing [content](../03-guidelines/content) and [code](../03-guidelines/technical) to the Kyma repositories. Also, learn how to create a new [repository](../03-guidelines/repository), and how the [release process](../03-guidelines/releases) looks in Kyma. Make your life easier using various document types [templates](/guidelines/templates/) prepared for those who would like to contribute.
+Go to the **Guidelines** section to read about rules and tips for providing [content](../03-guidelines/content) and [code](../03-guidelines/technical) to the Kyma repositories. Also, learn how to create a new [repository](../03-guidelines/repository), and how the [release process](../03-guidelines/releases) looks in Kyma. Make your life easier using various document types [templates](../03-guidelines/templates/README.md) prepared for those who would like to contribute.
 
 ## Documentation types
 
