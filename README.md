@@ -55,7 +55,7 @@ You can also find these guidelines and templates in the `community` repository:
 - [Decisions](./docs/04-collaboration/02-sig-core.md) made by Kyma team members and the Core SIG.
 - [Coding standards](./docs/03-guidelines/technical)
 
-There are also [repository guidelines](./docs/03-guidelines/repository) for the Kyma team members. The guidelines contain a folder, file, and document structure required for a [skeleton Kyma repository](./guidelines/repository-guidelines/repository-template).
+There are also [repository guidelines](./docs/03-guidelines/repository/02-repository-template.md) for the Kyma team members. The guidelines contain a folder, file, and document structure required for a [skeleton Kyma repository](./guidelines/repository-guidelines/repository-template).
 
 ## Security
 

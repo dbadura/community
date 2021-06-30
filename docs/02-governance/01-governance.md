@@ -24,7 +24,7 @@ Every code owner is expected to:
 
 * Contribute high-quality code and content
 * Communicate and collaborate with other code owners to improve the ownership process
-* Perform a thorough review of incoming PRs and make sure he/she follows the [contributing rules](https://github.com/kyma-project/community/blob/main/CONTRIBUTING.md)
+* Perform a thorough review of incoming PRs and make sure he/she follows the [contributing rules](../01-contributing/02-contributing.md)
 * Approve only those PRs in which the contributor made the requested improvements
 * Check if the related CI tests have completed successfully before approving the PR
 * Make sure that the PR approval flow runs smoothly
