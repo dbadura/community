@@ -61,4 +61,4 @@ See the templates for providing input and writing release notes.
 
 >**NOTE:** Update the tables each time you add a new template to the `resources` folder.
 
-Go to the [repository guidelines](https://github.com/kyma-project/community/blob/main/guidelines/repository-guidelines/repository-template) section for the template of an exemplary Kyma repository.
+Go to the [repository guidelines](../repository/02-repository-template.md) section for the template of an exemplary Kyma repository.
