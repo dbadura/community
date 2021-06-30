@@ -37,8 +37,12 @@ step() {
 merge() {
   git config --global user.email "CI@kyma.project"
   git config --global user.name "CI"
-  git checkout -b pull-request
+  git checkout -B pull-request
+
   git checkout main
+  step "Last commit from main"
+  git log --max-count=1
+
   git merge pull-request
 }
 remove-cached-content() {
